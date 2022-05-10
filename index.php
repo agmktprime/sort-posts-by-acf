@@ -1,3 +1,6 @@
+<?php
+
+
 function show_events() {
 	$args = array(
 	'meta_key' => 'data_do_evento',  //Get the ACF value
